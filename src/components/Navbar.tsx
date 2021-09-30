@@ -69,7 +69,7 @@ const Navbar = () => {
             leaveFrom='translate-x-0'
             leaveTo='translate-x-full'
           >
-            <div className='fixed top-0 bottom-0 right-0 z-30 px-6 pt-10 bg-white left-40'>
+            <div className='fixed top-0 bottom-0 right-0 z-30 w-2/3 px-6 pt-10 bg-white'>
               <div className='relative flex justify-end'>
                 <CgClose
                   className='absolute cursor-pointer w-9 h-9'
