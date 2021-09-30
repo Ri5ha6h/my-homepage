@@ -80,6 +80,7 @@ const Navbar = () => {
                 <ul className='flex flex-col items-center justify-center text-xl font-medium space-y-14'>
                   <li>
                     <a
+                      className='outline-none'
                       href='#home'
                       onClick={() =>
                         setShow(false)
@@ -90,6 +91,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <a
+                      className='outline-none'
                       href='#services'
                       onClick={() =>
                         setShow(false)
@@ -100,6 +102,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <a
+                      className='outline-none'
                       href='#work'
                       onClick={() =>
                         setShow(false)
@@ -110,6 +113,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <a
+                      className='outline-none'
                       href='#client'
                       onClick={() =>
                         setShow(false)
@@ -120,6 +124,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <a
+                      className='outline-none'
                       href='#contact'
                       onClick={() =>
                         setShow(false)
