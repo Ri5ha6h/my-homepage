@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://happy-kirch-2e46c4.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -32,8 +32,6 @@
 - [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
-
-
 
 ### Built With
 
